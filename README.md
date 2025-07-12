@@ -35,3 +35,6 @@ This application allows users to:
 
 ## 📁 Project Structure
 
+https://github.com/kumariaditi52/MovieApp-React-Redux/blob/0da95cf9a01c4e094483011844c25cb690254785/src/images/Screenshot%202025-07-11%20222935.png
+https://github.com/kumariaditi52/MovieApp-React-Redux/blob/0da95cf9a01c4e094483011844c25cb690254785/src/images/Screenshot%202025-07-11%20222952.png
+https://github.com/kumariaditi52/MovieApp-React-Redux/blob/0da95cf9a01c4e094483011844c25cb690254785/src/images/Screenshot%202025-07-11%20223000.png
